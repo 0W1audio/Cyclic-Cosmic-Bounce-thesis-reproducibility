@@ -51,19 +51,9 @@ If you use these figures, please cite:
   year = {2024},
   publisher = {Zenodo},
   version = {v1.0},
-  doi = {10.5281/zenodo.XXXXXXX},
+  doi = {10.5281/zenodo.18060271},
   url = {https://github.com/0W1audio/Cyclic-Cosmic-Bounce-thesis-reproducibility}
 }
-
-@misc{beauve2024icb,
-  author = {Beauve, Jean},
-  title = {Impulsive Dynamics and Eternal Cycles: The Cosmic Bounce as a Thermodynamic Dirac Impulse},
-  year = {2024},
-  publisher = {HAL},
-  howpublished = {hal-05431434},
-  url = {https://hal.science/hal-05431434}
-}
-```
 
 ---
 
