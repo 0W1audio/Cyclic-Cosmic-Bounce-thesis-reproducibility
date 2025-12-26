@@ -1,1 +1,90 @@
-results as images
+# Cyclic-Cosmic-Bounce-thesis-reproducibility
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18060271.svg)](https://doi.org/10.5281/zenodo.18060271)
+
+**Associated with HAL preprint:** [hal-05431434](https://hal.science/hal-05431434)
+
+Pre-generated publication-quality figures for:  
+*"Impulsive Dynamics and Eternal Cycles: The Cosmic Bounce as a Thermodynamic Dirac Impulse"*
+
+---
+
+## 📊 Contents
+
+This repository contains 6 publication-quality figures (JPG format):
+
+1. **fig1_bogoliubov_magnitudes.jpg** - Bogoliubov coefficient validation
+2. **fig2_unitarity_delta.jpg** - Unitarity verification
+3. **fig3_particle_number.jpg** - Particle number evolution
+4. **fig4_ekpyrotic_tilt.jpg** - Ekpyrotic spectral tilt
+5. **fig5_spectrum_properties.jpg** - Spectrum properties analysis
+6. **fig6_finite_corrections.jpg** - Finite corrections validation
+
+All figures validate analytical predictions from Loop Quantum Cosmology to < 2% accuracy for CMB-relevant modes.
+
+---
+
+## 🎯 Usage
+
+These figures can be:
+- **Used directly** in presentations or publications
+- **Regenerated** using the validation code: [Cyclic-Cosmic-Bounce---Python-Code](https://github.com/0W1audio/Cyclic-Cosmic-Bounce---Python-Code)
+
+---
+
+## 📐 Figure Specifications
+
+- **Format:** JPG (high resolution)
+- **Quality:** Publication-ready
+- **Generated from:** Python validation scripts
+- **Validated against:** Analytical predictions from ICB framework
+
+---
+
+## 📚 Citation
+
+If you use these figures, please cite:
+```bibtex
+@misc{beauve2024icb_figures,
+  author = {Beauve, Jean},
+  title = {Cyclic Cosmic Bounce - Publication Figures},
+  year = {2024},
+  publisher = {Zenodo},
+  version = {v1.0},
+  doi = {10.5281/zenodo.XXXXXXX},
+  url = {https://github.com/0W1audio/Cyclic-Cosmic-Bounce-thesis-reproducibility}
+}
+
+@misc{beauve2024icb,
+  author = {Beauve, Jean},
+  title = {Impulsive Dynamics and Eternal Cycles: The Cosmic Bounce as a Thermodynamic Dirac Impulse},
+  year = {2024},
+  publisher = {HAL},
+  howpublished = {hal-05431434},
+  url = {https://hal.science/hal-05431434}
+}
+```
+
+---
+
+## 🔗 Related Resources
+
+- **HAL Preprint:** [hal-05431434](https://hal.science/hal-05431434)
+- **Validation Code:** [Cyclic-Cosmic-Bounce---Python-Code](https://github.com/0W1audio/Cyclic-Cosmic-Bounce---Python-Code) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18062051.svg)](https://doi.org/10.5281/zenodo.18062051)
+
+---
+
+## 📄 License
+
+See [LICENSE](LICENSE) file for details.
+
+---
+
+## 📧 Contact
+
+For questions about these figures or the associated research, please open an issue in this repository or contact the author via the HAL preprint page.
+
+---
+
+**Last updated:** December 2024
+```
